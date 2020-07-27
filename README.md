@@ -1,1 +1,4 @@
-# LogisticRegression
+# Logistic Regression for Employee Attrition
+
+The  purpose  of  Human  Resource  Management  (HRM)  is  covering  worker  performance  and commitment, analyzing workers collaboration models, investigating employee chum and turnover, and creating employee lifetime  estimation. Human resource  analytics  is  a  developing application area  of analytics of HRM objectives. 
+On the other hand, the reputation of HR Analytics restricted in a high-quality scientific evidence-based study. The employee is one of the most critical assets in today’s knowledge-driven industry. Employee attrition can become a serious issue because of the impacts  on the organization’s competitive  advantage.  Employee attrition can  become  costly for an  organization. The  cost  of  employee  attrition  would  be  the  cost  related  to  the  human  resources  life  cycle,  lost knowledge, employee morale, and organizational culture.
